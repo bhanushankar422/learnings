@@ -3,14 +3,14 @@
 <details>
   <summary>Udemy Golang - Complete Developer's Guide</summary>
   
-  ![Golang - Complete Developer's Guide](./docs/udemy-golang.pdf)
+  ![Golang - Complete Developer's Guide](./docs/udemy-golang.jpeg)
 </details>
 
 ## Groovy
 <details>
   <summary>Udemy Groovy - Apache Groovy Developer</summary>
   
-  ![Apache Groovy Developer](./docs/udemy-groovy.pdf)
+  ![Apache Groovy Developer](./docs/udemy-groovy.jpeg)
 </details>
 
 ## Splunk
