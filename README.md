@@ -39,6 +39,12 @@
   
   ![Intro to time](./docs/award-working-with-time.jpg)
 </details>
+<details>
+  <summary>Statistical Processing</summary>
+  
+  ![Statistical Processing](./docs/award-statistical_processing.jpg)
+</details>
+
 
 ## Regex
 <details>
