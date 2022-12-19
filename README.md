@@ -44,7 +44,11 @@
   
   ![Statistical Processing](./docs/award-statistical_processing.jpg)
 </details>
-
+<details>
+  <summary>Comparing Values</summary>
+  
+  ![Comparing Values](./docs/award-comparing-values.jpg)
+</details>
 
 ## Regex
 <details>
