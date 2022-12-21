@@ -59,6 +59,11 @@
   
   ![Correlation Analysis](./docs/award-CorrelationAnalysis.jpg)
 </details>
+<details>
+  <summary>Intro to Knowledge Objects</summary>
+  
+  ![Intro to Knowledge Objects](./docs/award-IntroKO.jpg)
+</details>
 
 ## Regex
 <details>
