@@ -49,6 +49,16 @@
   
   ![Comparing Values](./docs/award-comparing-values.jpg)
 </details>
+<details>
+  <summary>Result Modification</summary>
+  
+  ![Result Modification](./docs/award-ResultModification.jpg)
+</details>
+<details>
+  <summary>Correlation Analysis</summary>
+  
+  ![Correlation Analysis](./docs/award-CorrelationAnalysis.jpg)
+</details>
 
 ## Regex
 <details>
