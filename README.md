@@ -64,6 +64,11 @@
   
   ![Intro to Knowledge Objects](./docs/award-IntroKO.jpg)
 </details>
+<details>
+  <summary>Create Knowledge Objects</summary>
+  
+  ![Create Knowledge Objects](./docs/award-CreateKO.jpg)
+</details>
 
 ## Regex
 <details>
