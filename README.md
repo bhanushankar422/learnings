@@ -69,6 +69,11 @@
   
   ![Create Knowledge Objects](./docs/award-CreateKO.jpg)
 </details>
+<details>
+  <summary>Field Extractions</summary>
+  
+  ![Field Extractions](./docs/award-FieldExtractions.jpg)
+</details>
 
 ## Regex
 <details>
