@@ -74,6 +74,11 @@
   
   ![Field Extractions](./docs/award-FieldExtractions.jpg)
 </details>
+<details>
+  <summary>Data Models</summary>
+  
+  ![Data Models](./docs/award-datamodels.jpg)
+</details>
 
 ## Regex
 <details>
