@@ -35,7 +35,7 @@
   ![Splunk Observability Cloud: Enterprise Features](./docs/award-o11y-cloud-enterprise-features.jpg)
 </details>
 
-## Splunk
+## Splunk Certifications
 <details>
   <summary>Splunk Core Certified Power User</summary>
   
