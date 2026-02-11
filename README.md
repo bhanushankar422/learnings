@@ -37,6 +37,13 @@
 
 ## Splunk
 <details>
+  <summary>Splunk Core Certified Power User</summary>
+  
+  ![Splunk Core Certified Power User](./docs/SplunkCoreCertifiedPowerUser.jpg)
+</details>
+
+## Splunk
+<details>
   <summary>Intro to Splunk</summary>
   
   ![Into to Splunk](./docs/award-intro-to-splunk.jpg)
@@ -100,6 +107,13 @@
   <summary>Data Models</summary>
   
   ![Data Models](./docs/award-datamodels.jpg)
+</details>
+
+## OWASP
+<details>
+  <summary>OWASP Top 10</summary>
+  
+  ![OWASP Top 10](./docs/owasp.jpg)
 </details>
 
 ## Regex
