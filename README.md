@@ -17,22 +17,22 @@
 <details>
   <summary>Introduction to Splunk Infrastructure Monitoring</summary>
   
-  ![Introduction to Splunk Infrastructure Monitoring](./docs/award-o11y-infrastructure-monitoring.pdf)
+  ![Introduction to Splunk Infrastructure Monitoring](./docs/award-o11y-infrastructure-monitoring.jpg)
 </details>
 <details>
   <summary>Getting Data into Splunk Observability Cloud</summary>
   
-  ![Getting Data into Splunk Observability Cloud](./docs/award-o11y-cloud-getting-data.pdf)
+  ![Getting Data into Splunk Observability Cloud](./docs/award-o11y-cloud-getting-data.jpg)
 </details>
 <details>
   <summary>Splunk Observability Cloud Teams</summary>
   
-  ![Splunk Observability Cloud Teams](./docs/award-o11y-cloud-teams.pdf)
+  ![Splunk Observability Cloud Teams](./docs/award-o11y-cloud-teams.jpg)
 </details>
 <details>
   <summary>Splunk Observability Cloud: Enterprise Features</summary>
   
-  ![Splunk Observability Cloud: Enterprise Features](./docs/award-o11y-cloud-enterprise-features.pdf)
+  ![Splunk Observability Cloud: Enterprise Features](./docs/award-o11y-cloud-enterprise-features.jpg)
 </details>
 
 ## Splunk
