@@ -13,6 +13,13 @@
   ![Apache Groovy Developer](./docs/udemy-groovy.jpeg)
 </details>
 
+## Splunk Certifications
+<details>
+  <summary>Splunk Core Certified Power User</summary>
+  
+  ![Splunk Core Certified Power User](./docs/SplunkCoreCertifiedPowerUser.jpg)
+</details>
+
 ## Splunk o11y Cloud
 <details>
   <summary>Introduction to Splunk Infrastructure Monitoring</summary>
@@ -33,13 +40,6 @@
   <summary>Splunk Observability Cloud: Enterprise Features</summary>
   
   ![Splunk Observability Cloud: Enterprise Features](./docs/award-o11y-cloud-enterprise-features.jpg)
-</details>
-
-## Splunk Certifications
-<details>
-  <summary>Splunk Core Certified Power User</summary>
-  
-  ![Splunk Core Certified Power User](./docs/SplunkCoreCertifiedPowerUser.jpg)
 </details>
 
 ## Splunk
